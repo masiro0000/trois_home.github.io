@@ -1,16 +1,36 @@
 {
   "files": {
-    "main.css": "/trois_home.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/trois_home.github.io/static/js/main.1e7cfe2c.js",
+    "main.css": "/trois_home.github.io/static/css/main.6d077442.css",
+    "main.js": "/trois_home.github.io/static/js/main.f66f445b.js",
     "static/js/453.9de8626f.chunk.js": "/trois_home.github.io/static/js/453.9de8626f.chunk.js",
-    "static/media/logo.svg": "/trois_home.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/map_img.svg": "/trois_home.github.io/static/media/map_img.c1791a4fefcd64270fb6fcba9458e126.svg",
+    "static/media/soup_02.svg": "/trois_home.github.io/static/media/soup_02.d5546eb4b31696144359ade3c1955d83.svg",
+    "static/media/soup_03.svg": "/trois_home.github.io/static/media/soup_03.d4eec8d55cecac3c7132dcd42f7c7233.svg",
+    "static/media/ArmedLemon.TTF": "/trois_home.github.io/static/media/ArmedLemon.472694461769a4622fd7.TTF",
+    "static/media/soup_icon.svg": "/trois_home.github.io/static/media/soup_icon.e01a9d8e1e7b6c28f7b29a18fe6c17e4.svg",
+    "static/media/sandwich_02.svg": "/trois_home.github.io/static/media/sandwich_02.319f34175c5a5ee3edd4e9bd1650ab27.svg",
+    "static/media/sandwich_03.svg": "/trois_home.github.io/static/media/sandwich_03.f2d3829ca895b5c036e4f1fe292f94eb.svg",
+    "static/media/sandwich_01.svg": "/trois_home.github.io/static/media/sandwich_01.b8dd17ac49ec7fc924da8e21450d53bf.svg",
+    "static/media/soup_01.svg": "/trois_home.github.io/static/media/soup_01.69d69d04a670d32feacfb14ec8fd8f5b.svg",
+    "static/media/about_img.svg": "/trois_home.github.io/static/media/about_img.0d09d450cf8b32562a49ea67dbd795b2.svg",
+    "static/media/sandwich_icon.svg": "/trois_home.github.io/static/media/sandwich_icon.5494102abcbd85a160aace0a86b08f63.svg",
+    "static/media/drink_icon.svg": "/trois_home.github.io/static/media/drink_icon.b12774a78ac67d7616507d4c31121f96.svg",
+    "static/media/top_img.svg": "/trois_home.github.io/static/media/top_img.1e594dc475a4d68d76d7b86f73ede6f4.svg",
+    "static/media/top_title.svg": "/trois_home.github.io/static/media/top_title.4de2736deda15b78366c8a3ebd35d20a.svg",
+    "static/media/decoration_icon.svg": "/trois_home.github.io/static/media/decoration_icon.00ad16821233ebe5c5c5cca8cc1f6c1a.svg",
+    "static/media/trois_white_logo.svg": "/trois_home.github.io/static/media/trois_white_logo.47f72652b42be40ca12bd07010b782d3.svg",
+    "static/media/top_logo.svg": "/trois_home.github.io/static/media/top_logo.09d9075a9675f240ccb66bb1347899bd.svg",
+    "static/media/trois_arrow.svg": "/trois_home.github.io/static/media/trois_arrow.6873671d2a397a949f43933903957586.svg",
+    "static/media/tell_icon.svg": "/trois_home.github.io/static/media/tell_icon.b4a07415b6f0e646face7db548501ff9.svg",
     "index.html": "/trois_home.github.io/index.html",
-    "main.f855e6bc.css.map": "/trois_home.github.io/static/css/main.f855e6bc.css.map",
-    "main.1e7cfe2c.js.map": "/trois_home.github.io/static/js/main.1e7cfe2c.js.map",
+    "static/media/map_icon.svg": "/trois_home.github.io/static/media/map_icon.31452848b77686850955770c7d9f33d5.svg",
+    "static/media/about_icon.svg": "/trois_home.github.io/static/media/about_icon.29a7c9e2dc5acfda9b3430c45d4d9eeb.svg",
+    "main.6d077442.css.map": "/trois_home.github.io/static/css/main.6d077442.css.map",
+    "main.f66f445b.js.map": "/trois_home.github.io/static/js/main.f66f445b.js.map",
     "453.9de8626f.chunk.js.map": "/trois_home.github.io/static/js/453.9de8626f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1e7cfe2c.js"
+    "static/css/main.6d077442.css",
+    "static/js/main.f66f445b.js"
   ]
 }
